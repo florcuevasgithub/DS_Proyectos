@@ -1,3 +1,3 @@
 # MiRepo_MundosE
-## muestra de practica de github
-Mi nuevo cuerpo del texto
+## muestra de practica de data science
+algunos proyectos de practica con ML, IA, analisis y limpieza de datos
